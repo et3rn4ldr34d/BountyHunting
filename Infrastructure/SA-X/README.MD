@@ -1,0 +1,1 @@
+# SA-X - Manual Endpoint Persistence
