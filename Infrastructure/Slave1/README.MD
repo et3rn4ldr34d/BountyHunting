@@ -1,1 +1,0 @@
-# Slave1 - Manual Bounty Container

@@ -1,1 +1,0 @@
-# Gunship_M - Manual Recon Automation

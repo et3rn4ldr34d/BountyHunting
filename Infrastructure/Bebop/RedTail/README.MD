@@ -1,1 +1,0 @@
-# RedTail - Loud Scanning
